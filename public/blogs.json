@@ -1,0 +1,53 @@
+[
+    {
+      "id": "1",
+      "cover": "https://ibb.co.com/TMyfSMHF",
+      "title": "The Lost Galaxy",
+      "author": "Liam Carter",
+      "autor-img": "https://example.com/author1.jpg",
+      "posted-date": "2025-03-01",
+      "reading-time": 5,
+      "hashtags": ["#scifi", "#space", "#adventure"]
+    },
+    {
+      "id": "2",
+      "cover": "https://ibb.co.com/TMyfSMHF",
+      "title": "Echoes of the Past",
+      "author": "Sophia Bennett",
+      "autor-img": "https://example.com/author2.jpg",
+      "posted-date": "2025-02-27",
+      "reading-time": 7,
+      "hashtags": ["#mystery", "#history", "#thriller"]
+    },
+    {
+      "id": "3",
+      "cover": "https://ibb.co.com/TMyfSMHF",
+      "title": "Artificial Minds",
+      "author": "Nathan Reynolds",
+      "autor-img": "https://example.com/author3.jpg",
+      "posted-date": "2025-03-05",
+      "reading-time": 6,
+      "hashtags": ["#ai", "#technology", "#future"]
+    },
+    {
+      "id": "4",
+      "cover": "https://ibb.co.com/TMyfSMHF",
+      "title": "Beneath the Waves",
+      "author": "Emily Hart",
+      "autor-img": "https://example.com/author4.jpg",
+      "posted-date": "2025-03-02",
+      "reading-time": 4,
+      "hashtags": ["#ocean", "#discovery", "#nature"]
+    },
+    {
+      "id": "5",
+      "cover": "https://ibb.co.com/TMyfSMHF",
+      "title": "Chronicles of the Unknown",
+      "author": "Daniel Foster",
+      "autor-img": "https://example.com/author5.jpg",
+      "posted-date": "2025-02-25",
+      "reading-time": 8,
+      "hashtags": ["#fantasy", "#magic", "#adventure"]
+    }
+  ]
+  
